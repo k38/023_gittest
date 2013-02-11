@@ -27,7 +27,7 @@ body{ background: url('../image/m01.jpg') no-repeat; }
 	-webkit-animation-name: webkitslide;
 	-webkit-animation-iteration-count: 1;
 	-webkit-animation-fill-mode: both;
-
+	-webkit-animation-timing-function: linear;
 /*
 	animation-duration: 1s;
 	animation-name: slide;
